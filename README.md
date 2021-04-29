@@ -1,10 +1,10 @@
 # GTCNN
 
-=====================
+===============================================================
 
 Python code for the paper "Generative Text Convolutional Neural Network for Hierarchial Document Representation Learning"
 
-=====================
+===============================================================
 
 CPFA_Mnist_Demo folder contains 4 different training algorithms for CPFA:
 
@@ -18,7 +18,7 @@ CPFA_Mnist_Online_Sparse_Parallel (SGMCMC to handle with large-scale datasets on
 
 We provide this demo on Mnist dataset to illustrate the benefits of CPFA, which can directly handle with the matrix under sparse representation and parallelize the Gibbs sampler for training on GPU.
 
-=====================
+===============================================================
 
 GTCNN_Text_Demo folder contains GTCNN with/without document-level pooling
 
@@ -31,7 +31,7 @@ GTCNN_with_pooling_Batch_Likelihood (GTCNN with document-level pooling for plott
 GTCNN_with_pooling_Batch_Classication (GTCNN with document-level pooling for document classification)
 
 
-=====================
+===============================================================
 
 The code for "Convolutional Poisson Gamma Belief Network" has been released in https://github.com/BoChenGroup/CPGBN
 
